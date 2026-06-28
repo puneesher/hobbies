@@ -1,0 +1,7 @@
+{
+  "name": "hobbies-root",
+  "private": true,
+  "scripts": {
+    "build": "cd ranking && npm install && next build"
+  }
+}
